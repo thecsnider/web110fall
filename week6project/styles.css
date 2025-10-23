@@ -1,0 +1,52 @@
+/*Cloe Snider, 10/10/2025 */
+
+body {font-family: Arial, Helvetica, sans-serif;
+	  background: url('images/background.jpg') no-repeat center fixed;
+	 }
+
+header {background: url('images/logo.png') no-repeat right;
+		text-align: center;
+		color: white;
+		padding: 20px;
+		}
+		
+main {background-color: white;
+	  width: 50%;
+	  margin: auto;
+	  }
+
+nav {font-weight: bold;
+	 text-align: center;}
+
+nav a:hover {color: #ff5733;}
+
+h1, h2, h3 {font-family: Georgia, "Times New Roman", serif;}
+
+h3 {color: #29485d;}
+
+ul {list-style-image: url('images/marker.gif');}
+
+li {line-height: 1.5;}
+
+footer {font-family: Georgia, "Times New Roman", serif;
+		font-size: 75%;
+		font-style: italic;
+		text-align: center;
+		padding: 20px;
+		background-color: white;
+		width: 20%;
+		margin: auto;
+		}
+web {font-weight: bold;
+	 color: red;
+	  }
+#contact {text-align: center;
+		  padding: 15px;
+		  margin-top: 20px;
+		  background-color: #c7b2ae;
+		  }
+.attraction-image {max-width: 600px;
+				   display: block;
+				   margin: 20px auto;
+				   border-radius: 10px;
+				   box-shadow: 20px 20px 10px grey;}
