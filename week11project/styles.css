@@ -1,0 +1,15 @@
+/*Cloe Snider, 11/22/25*/
+
+table {border: 2px solid #222;
+		margin: auto;
+		width: 80%;}
+
+th, td {border: 2px solid #222;
+		padding: 0.5em;
+		text-align: center;}
+
+.movie-title {text-align: left;}
+
+tr:nth-child(odd) {background-color: #f4e1d2;}
+
+tr:nth-child(even) {background-color: #c5dff8;}
